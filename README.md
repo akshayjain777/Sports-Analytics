@@ -20,7 +20,5 @@ Run `jupyter notebook` in terminal, then the code will pop up in your browser.
 
 Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
-## Credits 
 
-Credits for this code go to [RUdrakshTuwani](https://github.com/RudrakshTuwani/Football-Data-Analysis-and-Prediction/blob/master/Prediction/Scraping%20and%20Cleaning.ipynb). I've merely created a wrapper to get people started
 
